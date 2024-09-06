@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPrimerAppEmptyView</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="et_user">User</string>
+    <string name="tv_hola_extra_o">Hola Extraño</string>
+    <string name="IV_imagen_de_una_katana_en_un_campo">Imagen de una katana en un campo</string>
+    <string name="tv_hola">Hola, %1$s Bienvenido/a</string>
+</resources>
